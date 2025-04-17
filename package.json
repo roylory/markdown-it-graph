@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-graph",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A markdown-it plugin that parses custom graph syntax like ```graph bar and outputs structured graph data",
   "repository": {
     "type": "git",
