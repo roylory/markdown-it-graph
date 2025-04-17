@@ -2,7 +2,11 @@
   "name": "markdown-it-graph",
   "version": "0.0.1",
   "description": "A markdown-it plugin that parses custom graph syntax like ```graph bar and outputs structured graph data",
-  "repository": "roylory/markdown-it-graph",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roylory/markdown-it-graph"
+  },
+  "author": "Royce Joe",
   "license": "MIT",
   "keywords": [
     "markdown-it",
@@ -44,5 +48,8 @@
     "markdown-it": "^13.0.2",
     "markdown-it-testgen": "^0.1.6",
     "rollup": "^4.6.1"
+  },
+  "peerDependencies": {
+    "markdown-it": "^13.0.0"
   }
 }
