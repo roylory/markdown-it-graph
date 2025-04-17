@@ -1,3 +1,5 @@
+/** @typedef {import('./index')} */
+
 export default function graph_plugin (md) {
   const defaultType = 'bar'
 
